@@ -1,35 +1,3 @@
-###### 发一条内推消息，社招、实习生欢迎投递
-###### 字节跳动校招内推码: 3UWFMRS 
-###### 投递链接: https://jobs.toutiao.com/s/eFCv3cB
-###### 社招：https://job.toutiao.com/s/eFCPHb6
---- 
-
-#### 大数据面试题汇总与答案分享
-
-------
-
-<table>
-    <tr>
-     <th><img width="50px" src="./pictures/hadoop.jpg"></th>
-     <th><img width="50px" src="./pictures/hive.jpg"></th>
-     <th><img width="50px" src="./pictures/spark.jpg"></th>
-     <th><img width="50px" src="./pictures/flink.png"></th>
-     <th><img width="50px" src="./pictures/hbase.png"></th>
-     <th><img width="50px" src="./pictures/kafka.png"></th>
-     <th><img width="50px" src="./pictures/zookeeper.jpg"></th>
-    </tr>
-<tr>
-  <td align="center"><a href="#一hadoop">Hadoop</a></td>
-  <td align="center"><a href="#二hive">Hive</a></td>
-  <td align="center"><a href="#三spark">Spark</a></td>
-  <td align="center"><a href="#四flink">Flink</a></td>
-  <td align="center"><a href="#五hbase">HBase</a></td>
-  <td align="center"><a href="#六kafka">Kafka</a></td>
-  <td align="center"><a href="#七zookeeper">Zookeeper</a></td>
-</tr>
-    </table>
-
-
 ## 一、Hadoop
 
 1. [HDFS架构](./docs/HDFS架构.md)
